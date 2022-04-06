@@ -14,4 +14,9 @@ public class button : MonoBehaviour
     {
         SceneManager.LoadScene("Puzzle2");
     }
+
+    public void LoadSceneMode2()
+    {
+        SceneManager.LoadScene("Interfaz");
+    }
 }
